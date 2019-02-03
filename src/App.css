@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Work+Sans");
+.App {
+  text-align: center;
+  font-family: "Work Sans", sans-serif;
+  font-size: calc(10px + 2vmin);
+  color: #e6b8b8;
+}
+#secondImage{
+  transform: scaleX(-1);
+}
+button {
+  display: inline-block;
+  width: 100px;
+  margin-top: 1%;
+  -moz-box-shadow: 3px 5px 0px 0px #b8b8e6;
+  -webkit-box-shadow: 3px 5px 0px 0px #b8b8e6;
+  box-shadow: 3px 5px 0px 0px #b8b8e6;
+  background-color: #ecdede;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  border: 1px #b8e6b8;
+  cursor: crosshair;
+  color: #cc7a7a;
+  font-family: Trebuchet MS;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 10px 5px;
+  text-decoration: none;
+  margin: 0.5%;
+}
+
+button:hover {
+  background-color: #ebc136;
+}
+
+button:active {
+  position: relative;
+  top: 1px;
+}
+
+button:focus {
+  outline: 0;
+}
