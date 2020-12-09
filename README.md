@@ -1,5 +1,5 @@
 # Rock Paper Scissors!
-A more popular rendition on the playgrounds I grew up on was Ching Chang Walla. No idea where the names comes from but was a lot more fun to shout out.
+A more popularly known as "Ching Chang Walla" on the playgrounds I grew up on. No idea why but was a lot more fun to shout out.
 
 ![Image of project image](https://github.com/MJimale/Rock-Paper-Scissors/blob/master/src/Img/Rocking.gif)
 
