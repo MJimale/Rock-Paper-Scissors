@@ -1,7 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Rock Paper Scissors!
+A more popular rendition on the playgrounds I grew up on was Ching Chang Walla. No idea where the names comes from but was a lot more fun to shout out.
 
-It was hosted on AWS S3 static hosting.
+![Image of project image](https://github.com/MJimale/Rock-Paper-Scissors/blob/master/src/Img/Rocking.gif)
 
+#### ReactJS & AWS
+Hosted on AWS S3 static hosting.
 
-It's also deployed on Netifly
+Built using:
+* ReactJS
+* HTML5 / CSS5
+
+It's also deployed on Netifly and can be found below
 https://ching-chang-walla.netlify.com/
